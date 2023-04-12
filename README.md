@@ -1,2 +1,2 @@
-# reinforcement_learning_music_recommender
-Music Recommender using Reinforcement Learning
+# Music Recommender using Reinforcement Learning
+
